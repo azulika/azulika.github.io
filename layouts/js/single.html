@@ -1,0 +1,17 @@
+{{- /* エスケープ処理（改行を空白化、前後の空白削除、連続する空白を集約） */}}
+{{- define "escape" }}
+  {{- trim (replace . "\n" " ") " " | replaceRE " +" " " | jsonify -}}
+{{- end }}
+
+var data = [
+{{- range $index, $page := where .Site.Pages "Type" "post" }}
+{
+  url: {{ $page.Permalink | jsonify }},
+  title: {{ $page.Title | jsonify }},
+  image: {{ $page.Params.image | jsonify }},
+  lastmod: {{ $page.Lastmod.Format "2006-01-02" | jsonify }},
+  date: {{ $page.Date.Format "2006-01-02" | jsonify }},
+  body: {{ template "escape" (printf "%s %s" $page.Title $page.Plain) }}
+},
+{{- end }}
+]

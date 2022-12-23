@@ -1,0 +1,28 @@
+baseURL = 'https://azulika.github.io/'
+languageCode = 'en-us'
+title = 'Azul Note'
+theme = "github-style"
+
+HasCJKLanguage = true
+
+
+[params]
+  author = "azulicat"
+  description = "In solitude, where we are least alone."
+  #github = "MeiK2333"
+  #facebook = "MeiK2333"
+  #twitter = "MeiK2333"
+  #linkedin = "MeiK2333"
+  #instagram = "MeiK2333"
+  #tumblr = "MeiK2333"
+  #email = "meik2333@gmail.com"
+  #url = "https://meik2333.com"
+  #keywords = "blog, google analytics"
+  rss = true
+  lastmod = true
+  favicon = "/images/github.png"
+  location = "Japan"
+  #userStatusEmoji = "😀"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
