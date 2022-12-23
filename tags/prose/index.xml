@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>prose on Azul Note</title>
+    <title>prose on azulicat</title>
     <link>https://azulika.github.io/tags/prose/</link>
-    <description>Recent content in prose on Azul Note</description>
+    <description>Recent content in prose on azulicat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Dec 2022 21:54:06 +0900</lastBuildDate><atom:link href="https://azulika.github.io/tags/prose/index.xml" rel="self" type="application/rss+xml" />

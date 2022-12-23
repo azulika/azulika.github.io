@@ -1,3 +1,25 @@
-body {
-    font-family: 'Nunito' !important;
+div.honhe {
+    letter-spacing: 0.05em !important;
+    line-height: 1.6 !important;
+    font-family: 'Nunito', "Rounded M+ 1p" !important;
+    font-size: 18px;
+}
+
+
+/* @media screen and (min-width: 700px) {
+    div.honhe {
+        font-size: 20px;
+    }
+} */
+
+@media screen and (max-width: 500px) {
+    .container-lg.px-3.new-discussion-timeline {
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+    }
+
+    .Box-body.px-5.pb-5 {
+        padding-right: 18px !important;
+        padding-left: 18px !important;
+    }
 }
