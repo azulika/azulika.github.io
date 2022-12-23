@@ -85,7 +85,8 @@
               <div class="Box-body px-5 pb-5" style="z-index: 1">
                 <article class="markdown-body entry-content container-lg">
                   {{- .Content -}}
-                </article>
+                </article>                
+            {{ partial "related.html" . }}
               </div>
             </div>
           </div>
@@ -94,5 +95,6 @@
     </div>
   </main>
 </div>
+
 <script type="application/javascript" src='{{ "js/toc.js" | absURL }}'></script>
 <link rel="stylesheet" href='{{ "css/toc.css" | absURL }}' />

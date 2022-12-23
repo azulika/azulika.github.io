@@ -7,8 +7,9 @@ HasCJKLanguage = true
 
 
 [params]
+  avatar =  "/images/cocktail-export.gif"
   author = "azulicat"
-  description = "In solitude, where we are least alone."
+  description = "Nec audiendi qui solent dicere, Vox populi, vox Dei, quum tumultuositas vulgi semper insaniae proxima sit."
   #github = "MeiK2333"
   #facebook = "MeiK2333"
   #twitter = "MeiK2333"
@@ -20,7 +21,7 @@ HasCJKLanguage = true
   #keywords = "blog, google analytics"
   rss = true
   lastmod = true
-  favicon = "/images/github.png"
+  favicon = "/favicon.ico"
   location = "Japan"
   #userStatusEmoji = "😀"
 
@@ -30,3 +31,32 @@ HasCJKLanguage = true
 [taxonomies]
   tag = "tags"
   archive = "archives"
+
+# 空白直改行
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = true
+      unsafe = true
+
+# 関連
+[related]
+  includeNewer = true
+  threshold = 90
+  toLower = true
+
+[[related.indices]]
+  name = "keywords"
+  weight = 10
+
+[[related.indices]]
+  name = "tags"
+  weight = 60
+
+[[related.indices]]
+  name = "logos"
+  weight = 80
+
+[[related.indices]]
+  name = "date"
+  weight = 10
