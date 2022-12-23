@@ -2,4 +2,4 @@
 title: About
 ---
 
-aaa
+Mainly focused on game/book/movie-review articles. 
