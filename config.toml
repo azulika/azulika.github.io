@@ -1,4 +1,4 @@
-baseURL = 'https://azulika.github.io/'
+baseURL = 'https://azulika.github.io'
 languageCode = 'en-us'
 title = 'Azul Note'
 theme = "github-style"
