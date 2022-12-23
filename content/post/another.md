@@ -2,7 +2,7 @@
 title = "First Post"
 date = 2022-12-23T15:00:11+09:00
 lastmod = 2022-12-23T15:00:11+09:00
-tags = []
+tags = ["test"]
 categories = []
 imgs = []
 cover = ""  # image show on top

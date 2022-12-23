@@ -26,3 +26,7 @@ HasCJKLanguage = true
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[taxonomies]
+  tag = "tags"
+  archive = "archives"
