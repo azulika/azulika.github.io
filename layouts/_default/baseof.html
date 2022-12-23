@@ -3,9 +3,11 @@
 {{ partial "head.html" . }}
 
 <body>
+  <div id="app">
   {{ partial "header" . }}
   {{ block "content" . }}{{ end }}
   {{ partial "footer.html" . }}
+</div>
 </body>
 
 {{ partial "script.html" . }}

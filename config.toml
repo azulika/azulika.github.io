@@ -1,6 +1,6 @@
 baseURL = 'https://azulika.github.io'
 languageCode = 'en-us'
-title = 'Azul Note'
+title = 'azulicat'
 theme = "github-style"
 
 HasCJKLanguage = true
@@ -9,6 +9,7 @@ HasCJKLanguage = true
 [params]
   avatar =  "/images/cocktail-export.gif"
   author = "azulicat"
+  nickName = "indigo372"
   description = "Nec audiendi qui solent dicere, Vox populi, vox Dei, quum tumultuositas vulgi semper insaniae proxima sit."
   #github = "MeiK2333"
   #facebook = "MeiK2333"
