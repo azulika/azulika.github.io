@@ -1,16 +1,21 @@
 {{ define "content" }}
 <link rel="stylesheet" href="/search-style.css">
 <div class="entry-content">  
-      <script src="/index.js"></script>
   
       <div id="searchbox">
         <span id="inputWord"></span> <span id="resultCount"></span>
         <div id="result"></div>
       </div>
-  
+      <!-- <script src="/index.js"></script> -->
       <script>
-
-        function search(query) {
+        async function getData() {
+          const response = await fetch('/search-index.json');
+          const data = await response.json();
+          return data;
+        }
+        var data = null;
+        async function search(query) {
+          data = await getData();
           var result = searchData(query);
           var html = createHtml(result);
           showResult(html);
@@ -58,7 +63,7 @@
         function excerpt(body, startPos, endPos) {
           return [
             body.substring(startPos - 30, startPos),
-            '<b>', body.substring(startPos, endPos), '</b>',
+            '<b><mark>', body.substring(startPos, endPos), '</mark></b>',
             body.substring(endPos, endPos + 200)
           ].join('');
         }
@@ -78,7 +83,7 @@
         const keyword = url.searchParams.get("q");
         
         search(keyword);
-        
+        document.getElementById("inputWord").innerHTML = keyword;
         </script>
   
       <noscript><p class="notice">注意: この検索機能は JavaScript を使用しています。</p></noscript>
