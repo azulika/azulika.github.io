@@ -6,7 +6,16 @@
     <description>Recent content on azulicat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Dec 2022 21:54:06 +0900</lastBuildDate><atom:link href="https://azulika.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 18:09:50 +0900</lastBuildDate><atom:link href="https://azulika.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tarotic</title>
+      <link>https://azulika.github.io/post/tarotic/</link>
+      <pubDate>Sat, 24 Dec 2022 18:09:50 +0900</pubDate>
+      
+      <guid>https://azulika.github.io/post/tarotic/</guid>
+      <description>Introduction Tarotic is a small conlang with around 150 words. The core of Tarotic is a set of 22 essential words, based on the Major Arcana of Tarot. These words are usually used as adjectives, but can sometimes be used as another part of speech. Each of these words represents a concept associated with its corresponding Major Arcana, and their spellings are derived from various languages, such as Latin, Arabic, Slavic, and Russian.</description>
+    </item>
+    
     <item>
       <title>Agree to Disagree</title>
       <link>https://azulika.github.io/post/2212/agree-to-disagree/</link>
@@ -33,6 +42,15 @@
       <guid>https://azulika.github.io/post/221223/</guid>
       <description>Christmas is coming but I have nothing to do. I don&amp;rsquo;t have any plans or events to attend and I&amp;rsquo;m feeling a bit down about it. I know the holiday is about spending time with loved ones, but with the pandemic still raging on, it&amp;rsquo;s hard to feel the holiday cheer this year. I&amp;rsquo;m trying to stay positive and focus on the things I&amp;rsquo;m grateful for, but it&amp;rsquo;s tough.
 On a brighter note, I switched my hosting service from Vercel to github.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://azulika.github.io/search-index.json</link>
+      <pubDate>Sun, 30 Oct 2022 11:58:38 -0700</pubDate>
+      
+      <guid>https://azulika.github.io/search-index.json</guid>
+      <description></description>
     </item>
     
     <item>
@@ -63,7 +81,7 @@ On a brighter note, I switched my hosting service from Vercel to github.</descri
     </item>
     
     <item>
-      <title>サイト内検索</title>
+      <title>Search</title>
       <link>https://azulika.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
