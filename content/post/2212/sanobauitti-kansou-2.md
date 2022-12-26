@@ -2,7 +2,7 @@
 title: "サノバウィッチ感想2"
 date: 2022-12-23T19:56:41+09:00
 lastmod: 2022-12-23T19:56:41+09:00
-tags: [game, VN]
+tags: [review, game, VN]
 categories: []
 imgs: []
 cover: "" # image show on top
