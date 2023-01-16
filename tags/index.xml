@@ -6,22 +6,31 @@
     <description>Recent content in Tags on azulicat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jan 2023 14:35:29 +0900</lastBuildDate><atom:link href="https://azulika.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jan 2023 21:22:30 +0900</lastBuildDate><atom:link href="https://azulika.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>game</title>
-      <link>https://azulika.github.io/tags/game/</link>
-      <pubDate>Mon, 02 Jan 2023 14:35:29 +0900</pubDate>
+      <title>book</title>
+      <link>https://azulika.github.io/tags/book/</link>
+      <pubDate>Mon, 16 Jan 2023 21:22:30 +0900</pubDate>
       
-      <guid>https://azulika.github.io/tags/game/</guid>
+      <guid>https://azulika.github.io/tags/book/</guid>
       <description></description>
     </item>
     
     <item>
       <title>review</title>
       <link>https://azulika.github.io/tags/review/</link>
-      <pubDate>Mon, 02 Jan 2023 14:35:29 +0900</pubDate>
+      <pubDate>Mon, 16 Jan 2023 21:22:30 +0900</pubDate>
       
       <guid>https://azulika.github.io/tags/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game</title>
+      <link>https://azulika.github.io/tags/game/</link>
+      <pubDate>Mon, 02 Jan 2023 14:35:29 +0900</pubDate>
+      
+      <guid>https://azulika.github.io/tags/game/</guid>
       <description></description>
     </item>
     
