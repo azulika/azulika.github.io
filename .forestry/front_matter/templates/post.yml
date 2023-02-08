@@ -1,0 +1,43 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: datetime
+  name: lastmod
+  label: lastmod
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: imgs
+  label: imgs
+- type: text
+  name: cover
+  label: cover
+- type: boolean
+  name: readingTime
+  label: readingTime
+- type: boolean
+  name: toc
+  label: toc
+- type: boolean
+  name: comments
+  label: comments
+- type: boolean
+  name: justify
+  label: justify
+- type: boolean
+  name: single
+  label: single
+- type: text
+  name: summary
+  label: summary
