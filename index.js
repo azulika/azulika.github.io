@@ -6,8 +6,16 @@ var data = [
   title: "Posts",
   image: null,
   lastmod: "2023-03-12",
-  date: "2023-03-07",
+  date: "2023-03-11",
   body: "Posts"
+},
+{
+  url: "https://azulika.github.io/post/%E3%83%A9-%E3%83%A9-%E3%83%A9%E3%83%B3%E3%83%89-%E6%84%9F%E6%83%B3/",
+  title: "『ラ・ラ・ランド』感想",
+  image: null,
+  lastmod: "2023-03-12",
+  date: "2023-03-11",
+  body: "『ラ・ラ・ランド』感想 思ってたより難しい映画だった。評価値がやたら高い映画だったので期待値がだいぶ高かったが、超えた感じこそないもののまあまあ面白かった。 特筆すべき点はひとつ、「ありふれたハッピーエンド」の破壊である。これは流石に度肝を抜いた。終盤までかなり堅実なハリウッド構成に則っていたのだから、ハリウッドらしく男女結ばれてハッピーエンドだと誰もが予測してしまうのを綺麗に逆手に取られた。これは相当なギャンブルだったはずだが、構成が巧いのでそこから「外す」終わり方にしても綺麗にまとまっている。 一方で、そうまでして外す必要があるような話だったかは疑問。ありふれた設定にありふれたハッピーエンドにしても鑑賞後の感想はあんまり変わらない気がする。 最後以外特に跳ねた点がないこの映画がなぜそこそこの満足感を保証しているかといえば、音楽のよさにほかならないのだと思う。劇中曲は軒並み良かった。映画としては観客の感情操作がやや下手だった印象。純粋に誘導したい方向がわからない場面が節々で見られたし、サスペンディングは観客にコストを払わせる行為だから、緊迫させられた時間に見合った成果がないとうまくいかない。 あと純粋に直近でP5Rをプレイしていたせいで、似たテーマならあっちのがうまくやっていたなという感じ。 なんか後からじわじわ脳内評価があがっていきそうな作品だなと思いました。以上。 「ラ・ラ・ランド」の感想を読んでると、各地で違うバージョンが上映されてるマルチエンド作品っぽい。 自分の見たのはセブ視点トゥルーエンドだったんだけど。それで、○○○○○○の方が○○○○○○。 ミアのグッドエンド上映が多かったのかな。 https://t.co/4aj0JVDQyq — hawk (@hawk_v) March 4, 2017 ところでこんなものを視たのだが、マジなんだろうか。だとしたらだいぶ印象変わるけど、これ以外にソースがない。"
 },
 {
   url: "https://azulika.github.io/post/%E3%83%AA%E3%83%9C%E3%83%BC%E3%83%B3%E3%81%AE%E6%A3%8B%E5%A3%AB-%E6%84%9F%E6%83%B3/",
@@ -128,13 +136,5 @@ var data = [
   lastmod: "2022-12-23",
   date: "2022-12-23",
   body: "221223 Christmas is coming but I have nothing to do. I don\u0026rsquo;t have any plans or events to attend and I\u0026rsquo;m feeling a bit down about it. I know the holiday is about spending time with loved ones, but with the pandemic still raging on, it\u0026rsquo;s hard to feel the holiday cheer this year. I\u0026rsquo;m trying to stay positive and focus on the things I\u0026rsquo;m grateful for, but it\u0026rsquo;s tough. On a brighter note, I switched my hosting service from Vercel to github.io because Vercel was just too slow for my liking. I\u0026rsquo;ve been really happy with the switch so far and the site is loading much faster. It\u0026rsquo;s the little things, right? In other news, I\u0026rsquo;ve been struggling with chronic sleep deprivation lately. It\u0026rsquo;s been a constant battle and I\u0026rsquo;m having a hard time getting enough rest. I\u0026rsquo;ve tried everything from setting a consistent bedtime to drinking chamomile tea before bed, but nothing seems to be working. It\u0026rsquo;s frustrating and I\u0026rsquo;m feeling pretty drained as a result. On a positive note, I\u0026rsquo;ve been doing a mini digital detox lately where I use the internet but don\u0026rsquo;t use social media. It\u0026rsquo;s been going really well so far and I\u0026rsquo;ve been able to focus more on other things. It\u0026rsquo;s been a nice break from the constant notifications and I\u0026rsquo;ve been able to get a lot more done as a result. Speaking of the internet, I\u0026rsquo;ve noticed a weird trend recently of people using the emoji 💀 to mean \u0026ldquo;I\u0026rsquo;m dead\u0026rdquo;, meaning laughed too hard. I find it a bit morbid, but that\u0026rsquo;s what I like. Relatively decent movement on the internet in a while. Overall, it\u0026rsquo;s been a bit of a mixed bag lately. Some good, some not so good. But I\u0026rsquo;m trying to stay positive and focus on the things that are going well."
-},
-{
-  url: "https://azulika.github.io/post/%E3%83%A9-%E3%83%A9-%E3%83%A9%E3%83%B3%E3%83%89-%E6%84%9F%E6%83%B3/",
-  title: "『ラ・ラ・ランド』感想",
-  image: null,
-  lastmod: "2023-03-12",
-  date: "0001-01-01",
-  body: "『ラ・ラ・ランド』感想 思ってたより難しい映画だった。評価値がやたら高い映画だったので期待値がだいぶ高かったが、超えた感じこそないもののまあまあ面白かった。 特筆すべき点はひとつ、「ありふれたハッピーエンド」の破壊である。これは流石に度肝を抜いた。終盤までかなり堅実なハリウッド構成に則っていたのだから、ハリウッドらしく男女結ばれてハッピーエンドだと誰もが予測してしまうのを綺麗に逆手に取られた。これは相当なギャンブルだったはずだが、構成が巧いのでそこから「外す」終わり方にしても綺麗にまとまっている。 一方で、そうまでして外す必要があるような話だったかは疑問。ありふれた設定にありふれたハッピーエンドにしても鑑賞後の感想はあんまり変わらない気がする。 最後以外特に跳ねた点がないこの映画がなぜそこそこの満足感を保証しているかといえば、音楽のよさにほかならないのだと思う。劇中曲は軒並み良かった。映画としては観客の感情操作がやや下手だった印象。純粋に誘導したい方向がわからない場面が節々で見られたし、サスペンディングは観客にコストを払わせる行為だから、緊迫させられた時間に見合った成果がないとうまくいかない。 あと純粋に直近でP5Rをプレイしていたせいで、似たテーマならあっちのがうまくやっていたなという感じ。 なんか後からじわじわ脳内評価があがっていきそうな作品だなと思いました。以上。 「ラ・ラ・ランド」の感想を読んでると、各地で違うバージョンが上映されてるマルチエンド作品っぽい。 自分の見たのはセブ視点トゥルーエンドだったんだけど。それで、○○○○○○の方が○○○○○○。 ミアのグッドエンド上映が多かったのかな。 https://t.co/4aj0JVDQyq — hawk (@hawk_v) March 4, 2017 ところでこんなものを視たのだが、マジなんだろうか。だとしたらだいぶ印象変わるけど、これ以外にソースがない。"
 },
 ]
