@@ -6,22 +6,40 @@
     <description>Recent content in Tags on azulicat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Mar 2023 15:00:00 +0000</lastBuildDate><atom:link href="https://azulika.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 May 2023 15:00:00 +0000</lastBuildDate><atom:link href="https://azulika.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>movie</title>
-      <link>https://azulika.github.io/tags/movie/</link>
-      <pubDate>Sat, 11 Mar 2023 15:00:00 +0000</pubDate>
+      <title>manga</title>
+      <link>https://azulika.github.io/tags/manga/</link>
+      <pubDate>Tue, 02 May 2023 15:00:00 +0000</pubDate>
       
-      <guid>https://azulika.github.io/tags/movie/</guid>
+      <guid>https://azulika.github.io/tags/manga/</guid>
       <description></description>
     </item>
     
     <item>
       <title>review</title>
       <link>https://azulika.github.io/tags/review/</link>
-      <pubDate>Sat, 11 Mar 2023 15:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 May 2023 15:00:00 +0000</pubDate>
       
       <guid>https://azulika.github.io/tags/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anime</title>
+      <link>https://azulika.github.io/tags/anime/</link>
+      <pubDate>Tue, 21 Mar 2023 15:00:00 +0000</pubDate>
+      
+      <guid>https://azulika.github.io/tags/anime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>movie</title>
+      <link>https://azulika.github.io/tags/movie/</link>
+      <pubDate>Sat, 11 Mar 2023 15:00:00 +0000</pubDate>
+      
+      <guid>https://azulika.github.io/tags/movie/</guid>
       <description></description>
     </item>
     
@@ -49,15 +67,6 @@
       <pubDate>Mon, 02 Jan 2023 14:35:29 +0900</pubDate>
       
       <guid>https://azulika.github.io/tags/vn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>anime</title>
-      <link>https://azulika.github.io/tags/anime/</link>
-      <pubDate>Sun, 25 Dec 2022 22:24:39 +0900</pubDate>
-      
-      <guid>https://azulika.github.io/tags/anime/</guid>
       <description></description>
     </item>
     
