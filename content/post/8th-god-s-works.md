@@ -1,19 +1,20 @@
-+++
-categories = [ ]
-comments = false
-cover = ""
-date = 2023-02-07T15:00:00.000Z
-imgs = [ ]
-justify = false
-lastmod = 2023-02-07T15:00:00.000Z
-readingTime = false
-single = false
-summary = ""
-tags = [ "book", "review" ]
-title = "『8th GOD's works ～八神健同人短編集～』感想"
-toc = false
-_template = "post"
-+++
+---
+categories: []
+comments: false
+cover: ''
+date: 2023-02-07T15:00:00.000Z
+imgs: []
+justify: false
+lastmod: 2023-02-07T15:00:00.000Z
+readingTime: false
+single: false
+summary: ''
+tags:
+  - book
+  - review
+title: 『8th GOD's works ～八神健同人短編集～』感想
+toc: false
+---
 
 [https://www.mangaz.com/series/detail/125251](https://www.mangaz.com/series/detail/125251 "https://www.mangaz.com/series/detail/125251")
 

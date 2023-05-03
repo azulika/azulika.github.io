@@ -1,19 +1,20 @@
-+++
-categories = [ ]
-comments = false
-cover = ""
-date = 2023-03-04T15:00:00.000Z
-imgs = [ ]
-justify = false
-lastmod = ""
-readingTime = false
-single = false
-summary = ""
-tags = [ "book", "review" ]
-title = "ブックオフで買った漫画感想【とんがり帽子のアトリエ,げんしけん,虚構推理】"
-toc = false
-_template = "post"
-+++
+---
+categories: []
+comments: false
+cover: ''
+date: 2023-03-04T15:00:00.000Z
+imgs: []
+justify: false
+lastmod: ''
+readingTime: false
+single: false
+summary: ''
+tags:
+  - book
+  - review
+title: 'ブックオフで買った漫画感想【とんがり帽子のアトリエ,げんしけん,虚構推理】'
+toc: false
+---
 
 ## とんがり帽子のアトリエ
 
