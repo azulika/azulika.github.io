@@ -1,19 +1,20 @@
 +++
-categories = []
+categories = [ ]
 comments = false
 cover = ""
-date = 2023-02-07T15:00:00Z
-imgs = []
+date = 2023-02-07T15:00:00.000Z
+imgs = [ ]
 justify = false
-lastmod = 2023-02-07T15:00:00Z
+lastmod = 2023-02-07T15:00:00.000Z
 readingTime = false
 single = false
 summary = ""
-tags = ["book", "review"]
+tags = [ "book", "review" ]
 title = "『8th GOD's works ～八神健同人短編集～』感想"
 toc = false
-
+_template = "post"
 +++
+
 [https://www.mangaz.com/series/detail/125251](https://www.mangaz.com/series/detail/125251 "https://www.mangaz.com/series/detail/125251")
 
 マンガ図書館Zで無料で読める漫画。非常によかった。名前の通り短編集だけど、どれもジャンルが似通っておらず面白い。他の作品も目を通したけど、全体的に伊勢田作品っぽい雰囲気もあり。
